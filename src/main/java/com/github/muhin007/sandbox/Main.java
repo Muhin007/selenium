@@ -1,3 +1,5 @@
+package com.github.muhin007.sandbox;
+
 public class Main {
     static Point p1 = new Point(2, 2);
     static Point p2 = new Point(5, 6);

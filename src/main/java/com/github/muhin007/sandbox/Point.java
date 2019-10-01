@@ -1,3 +1,5 @@
+package com.github.muhin007.sandbox;
+
 public class Point {
     private int x, y;
 
